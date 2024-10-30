@@ -10,7 +10,7 @@ total_final = 0
 while abc == "si":
   
   print("Has seleccionado LINEA BLANCA")
-  print("1. Refrigerador 25 Pies LG Silver $19,990.00")
+  print("hola")
   print("2. Lavadora Whirlpool 17 Kg Blanca $7,990.00")
   print("3. Estufa Mabe EM7654BFIS2 Piso 30 Plata Mercury $9,169.00")
   print("4. Licuadora Ninja Professional Blender 3 Velocidades Negra $1,890.00")
